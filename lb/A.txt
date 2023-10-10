@@ -1,11 +1,11 @@
 //clan://localhost/TVBox
-//https://raw.githubusercontent.com/beyonder588/wen/main/
+//https://ghproxy.com/raw.githubusercontent.com/beyonder588/wen/main/
 
 {
 
 
 
- "spider": "https://raw.githubusercontent.com/beyonder588/wen/main/jar/wen.jar",
+ "spider": "https://ghproxy.com/raw.githubusercontent.com/beyonder588/wen/main/jar/wen.jar",
   
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
@@ -33,7 +33,7 @@
     
   {"key": "T4_荐片","name": "🧲荐片2","type": 4,"searchable": 1,"changeable": 1,"playerType": 1,"api": "http://home.jundie.top:9520/spider/csp_JP"},
      
-  {"key":"drpy_js_6V新版磁]","name":"🧲6V2","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://raw.githubusercontent.com/beyonder588/wen/main/js/6V.js"},
+  {"key":"drpy_js_6V新版磁]","name":"🧲6V2","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/beyonder588/wen/main/js/6V.js"},
   
   {"key": "csp_New6v","name": "🧲6V1","jar":"","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com"},
   
