@@ -24,8 +24,6 @@ sites:[
 
 
 {key:'*老鸭资源',name:'❤X老鸭',type:1,api:'https://api.apilyzy.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
-{key:'*花魁资源',name:'❤X花魁',type:0,api:'https://caiji.huakuiapi.com/inc/api.php',searchable:1,quickSearch:1,filterable:0},
-{key:'*探探资源',name:'❤X探探',type:1,api:'https://apittzy.com/api.php/provide/vod/at/xml/',searchable:1,quickSearch:1,filterable:0},
 {key:'zp123',name:'❤色猫',type:0,api:'https://caiji.semaozy.net/inc/api.php',searchable:1,quickSearch:1,filterable:0},
 {key:'KK写真资源',name:'❤KK',type:1,api:'https://kkzy.me/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'易看资源',name:'❤易看',type:1,api:'https://api.yikanapi.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
@@ -43,6 +41,9 @@ sites:[
 {key:'*鲨鱼资源',name:'❤鲨鱼',type:1,api:'https://shayuapi.com/api.php/provide/vod/',searchable:1,quickSearch:1},
 {key:'*玖玖资源',name:'❤玖玖',type:0,api:'http://99zywcj.com/inc/sapi.php?ac=list',searchable:1,quickSearch:1,filterable:0},
 {key:'色窝资源',name:'❤色窝',type:1,api:'https://sewozyapi.com/api.php/provide/vod/',searchable:1,quickSearch:0,filterable:0}
+
+//{key:'*花魁资源',name:'❤X花魁',type:0,api:'https://caiji.huakuiapi.com/inc/api.php',searchable:1,quickSearch:1,filterable:0},
+//{key:'探探资源',name:'❤X探探',type:1,api:'https://apittzy.com/api.php/provide/vod/at/',searchable:1,quickSearch:1,filterable:0},
 
 
 
