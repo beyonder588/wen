@@ -1,11 +1,11 @@
+//https://download.kstore.space/download/4571
 //clan://localhost/TVBox
-//https://ghproxy.com/raw.githubusercontent.com/beyonder588/wen/main
 
 {
 
 
 
- "spider": "https://ghproxy.com/raw.githubusercontent.com/beyonder588/wen/main/jar/wen.jar",
+ "spider": "clan://localhost/TVBox/jar/wen.jar",
   
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
@@ -22,8 +22,7 @@
   
   
   {"key": "4K电影网","name": "🌀非凡量子","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "https://drpy.cainisi.cf/js/4K电影网.js"},
-    
-    
+       
   {key:'豌豆资源',name:'🌀豌豆聚合',type:1,api:'https://ks.wandouzy.cc/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
   
   {key:'蜂蜜资源',name:'🌀蜂蜜聚合',type:1,api:'https://www.beeyao.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
@@ -33,9 +32,20 @@
     
   {"key": "T4_荐片","name": "🧲荐片2","type": 4,"searchable": 1,"changeable": 1,"playerType": 1,"api": "http://home.jundie.top:9520/spider/csp_JP"},
      
-  {"key":"drpy_js_6V新版磁]","name":"🧲6V2","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://ghproxy.com/raw.githubusercontent.com/beyonder588/wen/main/js/6V.js"},
+  {"key":"drpy_js_6V新版磁]","name":"🧲6V2","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"clan://localhost/TVBox/js/6V.js"},
   
   {"key": "csp_New6v","name": "🧲6V1","jar":"","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com"},
+  
+  {"key":"csp_Mp4Mov","name":"🧲Mp4电影","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
+
+  {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+  {"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+  {"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+    
+  
   
   
   
@@ -69,7 +79,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fantaiying$$$qqq111"
     },
     
     {
