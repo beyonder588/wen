@@ -1,14 +1,14 @@
-//https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main
+//https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main 
 
 //clan://localhost/TVBox
 
-//https://download.kstore.space/download/4571
+//https://download.kstore.space/download/4571 
 
 {
 
 
 
- "spider": "https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main/jar/wen.jar",
+ "spider": "https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main/jar/wen.jar", 
   
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
@@ -24,14 +24,16 @@
     },
   
   
-  {"key": "4K电影网","name": "🌀非凡量子","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "https://drpy.cainisi.cf/js/4K电影网.js"},
+  {"key": "4K电影网","name": "🌀非凡量子","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "https://drpy.cainisi.cf/js/4K电影网.js"}, 
        
   {key:'豌豆资源',name:'🌀豌豆聚合',type:1,api:'https://ks.wandouzy.cc/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
   
+  {key:'天翼资源',name:'🌀天翼聚合',type:1,api:'https://www.911ysw.top/tianyi.php/provide/vod/',searchable:1,quickSearch:1,filterable:0}, 
+        
   {key:'蜂蜜资源',name:'🌀蜂蜜聚合',type:1,api:'https://www.beeyao.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
   
   
-  {"key": "荐片","name": "🧲荐片1","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "https://drpy.cainisi.cf/js/荐片.js"},
+  {"key": "荐片","name": "🧲荐片1","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "https://drpy.cainisi.cf/js/荐片.js"}, 
     
   {"key": "T4_荐片","name": "🧲荐片2","type": 4,"searchable": 1,"changeable": 1,"playerType": 1,"api": "http://home.jundie.top:9520/spider/csp_JP"},
      
