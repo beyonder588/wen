@@ -16,16 +16,16 @@ sites:[
 {key:'CK资源',name:'CK',type:1,api:'http://www.feifei67.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'卧龙资源',name:'卧龙',type:1,api:'https://collect.wolongzyw.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'ikun资源',name:'艾坤',type:1,api:'https://ikunzyapi.com/api.php/provide/vod',searchable:1,quickSearch:1,filterable:0},
-{key:'闪电资源',name:'闪电',type:1,api:'https://sdzyapi.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'红牛资源',name:'红牛',type:1,api:'https://www.hongniuzy2.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'金鹰资源',name:'金鹰',type:1,api:'https://jyzyapi.com/provide/vod/',searchable:1,quickSearch:1,filterable:0},
-//{key:'资源',name:'测试',type:1,api:'https://seacms.huaqi.live/zyapi.php',searchable:1,quickSearch:1,filterable:0},
+{key:'夸克资源',name:'夸克',type:1,api:'http://kuakezy1.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
+{key:'大漠资源',name:'大漠',type:1,api:'https://damozy.com/api.php/provide/vod/?ac=list',searchable:1,quickSearch:1,filterable:0},
+{key:'极速资源',name:'极速',type:1,api:'https://jszyapi.com/api.php/provide/vod',searchable:1,quickSearch:1,filterable:0},
+//{key:'资源',name:'测试',type:1,api:'',searchable:1,quickSearch:1,filterable:0},
 
 
 
 {key:'*老鸭资源',name:'❤X老鸭',type:1,api:'https://api.apilyzy.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
-{key:'*花魁资源',name:'❤X花魁',type:0,api:'https://caiji.huakuiapi.com/inc/api.php',searchable:1,quickSearch:1,filterable:0},
-{key:'*探探资源',name:'❤X探探',type:1,api:'https://apittzy.com/api.php/provide/vod/at/xml/',searchable:1,quickSearch:1,filterable:0},
 {key:'zp123',name:'❤色猫',type:0,api:'https://caiji.semaozy.net/inc/api.php',searchable:1,quickSearch:1,filterable:0},
 {key:'KK写真资源',name:'❤KK',type:1,api:'https://kkzy.me/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'易看资源',name:'❤易看',type:1,api:'https://api.yikanapi.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
@@ -42,6 +42,7 @@ sites:[
 {key:'*番号资源',name:'❤番号',type:1,api:'http://fhapi9.com/api.php/provide/vod/',searchable:1,quickSearch:1},
 {key:'*鲨鱼资源',name:'❤鲨鱼',type:1,api:'https://shayuapi.com/api.php/provide/vod/',searchable:1,quickSearch:1},
 {key:'*玖玖资源',name:'❤玖玖',type:0,api:'http://99zywcj.com/inc/sapi.php?ac=list',searchable:1,quickSearch:1,filterable:0},
+{key:'红袖资源',name:'❤红袖',type:1,api:'https://hongxiuzy.com/api.php/provide/vod',searchable:1,quickSearch:1,filterable:0},
 {key:'色窝资源',name:'❤色窝',type:1,api:'https://sewozyapi.com/api.php/provide/vod/',searchable:1,quickSearch:0,filterable:0}
 
 
