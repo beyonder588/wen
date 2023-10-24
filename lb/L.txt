@@ -1,8 +1,8 @@
+//clan://localhost/TVBox
+
 //https://download.kstore.space/download/4571
 
 //https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main
-
-//clan://localhost/TVBox
 
 {
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main/jar/wen.jar",
@@ -39,11 +39,27 @@
   
   {"key":"drpy_js_在线之家","name":"🖨在线","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main/js/在线之家.js"},
   
-  {"key": "drpy_js_厂长资源","name": "🏭️厂长","type": 3,"api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy2.min.js","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main/js/厂长资源.js"},
+ {
+      "key": "77",
+      "name": "👒七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
    
   {"key":"drpy_js_飞兔影视","name":"🐇飞兔","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main/js/飞兔影视.js"},
   
-  {"key": "哈喽","name": "✌迷你库","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://www.miniku.cc/xgapp.php/v1/"},  
+ {
+      "key": "kuaikan",
+      "name": "👀快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
       
   {"key":"drpy_js_乐鱼影视","name":"🐠乐鱼","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main/js/乐鱼影视.js"},
    
@@ -81,16 +97,26 @@
   
   {"key": "drpy_js_多瑙影视","name": "🚢多瑙","type": 3,"api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main/js/多瑙影视.js","playerType": "2"},     
                 
-  {"key": "drpy_js_小狗影院","name": "🐕️小狗","type": 3,"api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy2.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main/js/小狗影院.js"},
-           
   {
-      "key": "Vofl",
-      "name": "🎈VOF",
+      "key": "Cokemv",
+      "name": "📕可乐",
       "type": 3,
-      "api": "csp_Voflix",
+      "api": "csp_Cokemv",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+           
+  {
+      "key": "Mino",
+      "name": "👻Mino",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
     },
   
   {"key":"drpy_js_139影视","name":"🎬️139","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main/js/139影视.js"},      
@@ -123,6 +149,13 @@
       "ext": "http://www.aueteys.com/"
     },
     
+    {
+      "key": "爱迪",
+      "name": "💡爱迪",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+    },
    
   //即将失效
   
@@ -143,7 +176,46 @@
       "changeable": 1,
       "ext": "https://ttsp.live/api.php/app/"
     },
+    
+    
+     {
+      "key": "蚂蚁",
+      "name": "🐜蚂蚁",
+      "type": 3,
+      "api": "csp_MYYS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://rzys.xyz"
+    },
   
+  
+   {
+      "key": "影视王朝",
+      "name": "🦄王朝",
+      "type": 3,
+      "api": "csp_Yswc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "",
+      "jar": "http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"
+    },
+    
+    
+    
+  
+ 
+ {
+      "key": "apv2_梦梦",
+      "name": "🐠梦梦",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "playUrl": "json:https://jiexi.xn--654a.cc/home/api?type=ys&uid=10456764&key=bgiuvEGIMQRSTWX689&url=",
+      "ext": "http://iosa.xn--654a.cc/api.php/app/"
+    },
+ 
  
   {"key":"drpy_js_菜狗","name":"⛽全平台","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy2.min.js","ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/菜狗.js"}, 
   {"key": "csp_360","name": "⛽360","type": 1,"playerType": 2,"api": "http://tvbox.top/360.php","searchable": 1,"quickSearch": 1,"filterable": 1}
@@ -151,64 +223,32 @@
      
   ],
   "parses": [
-  {
-      "name": "聚合1",
-      "type": 3,
-      "url": "Demo"
-    },
   
   {
-      "name": "聚合0",
+      "name": "聚合",
+      "type": 3,
+      "url": "Web"
+    },
+  
+  
+    
+    {
+      "name": "聚合1",
       "type": 3,
       "url": "Web"
     },
     
+    
+    
     {
-      "name": "饭硬",
-      "type": 1,
-      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
-    },
-    
-     
-  
-  {
-       "name": "柒柒",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-    },
-    
-    
-    
-   {
-      "name": "解析",
+      "name": "杰森",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
+      "url": "https://jx.jsonplayer.com/player/?url="
     },
+    
+    
+    
+   {"name":"莲花","type":0,"url":"https://vip.lianfaka.com/vip/?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
     
    
   
@@ -278,16 +318,10 @@
     
   
     {
-      "name": "极狐",
-      "type": 1,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
-    },
-    {
-      "name": "左岸",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+      "name": "博智",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url="
     }
-     
     
   ],
   
