@@ -7,17 +7,9 @@
 {
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/beyonder588/wen/main/jar/wen.jar",
   "sites": [
-    {
-      "key": "js豆豆",
-      "name": "热播推荐",
-       "type": 3,
-      "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
-      "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
+     
+
+  {key:'快看资源',name:'🌀快看热播',type:1,api:'https://kuaikan-api.com/api.php/provide/vod/from/kuaikanyun',searchable:1,quickSearch:1,filterable:0},
     
     
   //首选优质资源  

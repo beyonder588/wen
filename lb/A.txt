@@ -13,9 +13,16 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
   
- 
- {key:'快看资源',name:'🌀快看切片',type:1,api:'https://kuaikan-api.com/api.php/provide/vod/from/kuaikanyun',searchable:1,quickSearch:1,filterable:0},
-  
+  {
+      "key": "csp_WoGG",
+      "name": "👽玩偶",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    }, 
   
   {"key": "4K电影网","name": "🌀量子非凡","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "https://drpy.cainisi.cf/js/4K电影网.js"},
   
@@ -64,16 +71,7 @@
   
   
   
-  {
-      "key": "csp_WoGG",
-      "name": "👽玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },    
+   
                 
    {
       "key": "YiSo",
