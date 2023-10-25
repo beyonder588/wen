@@ -8,7 +8,8 @@
 
 
 
- "spider": "https://jihulab.com/beyonder_wen/zxk/-/blob/bad43c3594163f6f9daa84609449c04ae4eb6882/wen.jar",
+ //"spider": "https://jihulab.com/beyonder_wen/zxk/-/blob/bad43c3594163f6f9daa84609449c04ae4eb6882/wen.jar",
+ "spider": "https://raw.githubusercontent.com/beyonder588/wen/main/jar/wen.jar",
   
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
