@@ -8,7 +8,7 @@
 
 
 
- "spider": "https://jihulab.com/beyonder_wen/zxk/-/blob/bad43c3594163f6f9daa84609449c04ae4eb6882/wen.jar", 
+ "spider": "https://jihulab.com/beyonder_wen/zxk/-/raw/bad43c3594163f6f9daa84609449c04ae4eb6882/wen.jar",  
  
   
 
