@@ -9,7 +9,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/直播源.txt",
+		    "url": "https://d.kstore.space/download/4571/直播源.txt",
 		    "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "http://epg.112114.eu.org/logo/{name}.png"
 	    }],
@@ -30,7 +30,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
 		},
   
   {
