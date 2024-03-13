@@ -108,8 +108,8 @@
   
   //运输线路
   {"key":"6V磁力","name":"🧲新6V","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cf.weixine.net/sub/6v.json"},
-    
-  {"key":"lf_js_p2p","name":"🧲MP4电影","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_p2p2_min.js","timeout":30},
+  
+  {"key":"drpy_js_dydhhy","name":"🧲MP4电影","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/dydhhy.js", "quickSearch":1, "changeable":1, "timeout":30},
     
  {
       "key": "csp_XYQHiker_高清MP4",
@@ -138,18 +138,17 @@
  },
     
  //潇洒线路   
-  {"key":"drpy_js_磁力熊[磁]","name":"🧲熊磁力","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/磁力熊[磁].js","timeout":30},
-    
-  //https://drpy.cainisi.cf/js/磁力熊[磁].js
+  {"key":"drpy_js_磁力熊[磁]","name":"🧲熊磁力","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/磁力熊[磁].js","timeout":30},     
+ 
  {
-      "key": "磁力熊",
-      "name": "🧲磁力熊",
-      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar",
+      "key": "drpy_js_磁力熊",
+      "name": "🧲磁熊力",
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/磁力熊.json","timeout":30
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/磁力熊[磁].js","timeout":30
  },
  
  {"key":"lf_js_p2p","name":"🧲聚磁力","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_p2p2_min.js","timeout":60},
