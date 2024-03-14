@@ -6,7 +6,7 @@
 
 //fan.txt;md5;9fdf355f7d803698900ccf4ceb4626cb
 
-//pg.jar;md5;818035a55579d7d625a70c01485f1cca
+//pg.jar;md5;12e1170f54c86565b5de7a828fcec770
 
 //XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0
 
@@ -40,6 +40,8 @@
 			"changeable": 0,
 			"ext":""
  },
+ 
+ {"key":"PushShare","name":"我的网盘","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/pushshare.txt$$$db$$$1","style": {"type": "list"}},
  
  {"key": "csp_WoGG","name": "👽玩偶饭","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/fan.txt","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
  
