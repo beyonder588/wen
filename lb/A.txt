@@ -4,12 +4,6 @@
 
 //https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main
 
-//fan.txt;md5;dd909349c70fe92e82470eba611b7094
-
-//pg.jar;md5;04d74f2c921acbc9a2e20bd880a6e630
-
-//XYQ.jar;md5;5dbe95399010cd30706b01aa5624dbe0
-
 
 {
 
@@ -20,34 +14,20 @@
   ], 
  
   
-  "wallpaper": "https://picsum.photos/1080/",  
+  //"wallpaper": "https://picsum.photos/1080/",  
   
+   "wallpaper": "https://bing.img.run/rand.php",  
+
   
-  "sites": [
+  "sites": [  
   
-  
+  {"key": "csp_WoGG","name": "👽玩偶饭","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/fan.txt","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0, "ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://api.wogg.xyz/","danMu": "弹"}}, 
   
   {"key": "csp_XYQHikerAL_玩偶","name":"👽玩偶晴","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/玩偶哥哥.json","timeout":30}, 
- 
- 
-  {
-			"key": "网盘配置",
-			"name": "网盘配置",
-			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-			"ext":""
-  },
- 
-  {"key":"PushShare","name":"我的网盘","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/pushshare.txt$$$db$$$1","style": {"type": "list"}},
- 
-  
    
-  {"key": "csp_WoGG","name": "👽玩偶饭","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/fan.txt","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-  
   {"key": "csp_XYQHikerAL_玩偶歌","name":"👽玩偶歌","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/json/wou.json","timeout":30}, 
+  
+ {"key": "wogg","name": "👽玩偶荷","jar":"http://rihou.cc:88/hccx/HeChengChaXiu.jar","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://rihou.cc:88/hccx/玩偶哥哥.json"},   
   
   {"key": "csp_XYQHikerAL_玩偶哥","name":"👽玩偶哥","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/json/wog.json","timeout":30}, 
  
@@ -57,58 +37,39 @@
     
   {"key": "csp_XYQHikerAL_玩偶妹","name":"👽玩偶妹","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/json/wom.json","timeout":30}, 
   
-  
-   
-   
-  {"key":"团长资源","name":"🐭团长","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_TZFile", "ext":"", "quickSearch":1, "changeable":1, "timeout":30},
-   
-  {"key":"校长影视","name":"🐭校长","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_XiaoZhang", "ext":"","quickSearch":1,"changeable":1,"timeout":30},
-   
-  {"key":"Libvio","name":"🐭LIBVIO","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":""},
-   
-  {"key":"Funletu","name":"🐭趣盘搜","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":""},
-  
-  {"key":"QuarkPanso","name":"🐭夸盘搜","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":""},
-    
-  {"key":"盘搜","name":"🐭双盘搜","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_PanSou","ext":"", "timeout":30},  
-  
-  {"key":"88Pan","name":"🐭88网盘","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_EightEight","timeout":30, "ext":""},
-    
-  {"key":"混合盘","name":"🐭混合盘","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_HunHePan","timeout":30, "ext":""},
-       
-  {"key":"PikaSo","name":"🐭皮卡搜","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_PikaSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":""},     
-  
-  {"key":"PanSearch","name":"🐭盘Se","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":""},
-  
-  {"key":"秒搜","name":"🐭秒搜","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_MiaoSou","timeout":30, "ext":""},
-    
-  {"key":"DaPanSo","name":"🐭大盘搜","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":""}, 
-   
       
    
-  {"key":"csp_Yisou","name":"🦊易搜","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
+  //{"key":"csp_Yisou","name":"🦊易搜","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
+  
+  {"key":"Upyunso","name":"🦊云搜","jar":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
         
-  {"key":"csp_Upyunso","name":"🦊UP搜","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
-      
-  {"key": "csp_XYQHikerAL_云盘资源分享","name": "🦊云享","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/云盘资源分享.json","timeout":30},    
+  {"key":"csp_Upyunso","name":"🦊搜云","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
+                          
+ {"key":"ys搜索","name":"🦊搜影","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1.v.nxog.top/m/json/ys.json"}, 
+             
+ {"key": "csp_XYQHiker_影搜","name":"🦊影搜","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/影搜.json"},    
+   
+ {"key":"云盘搜索","name":"🦊Se盘","type":3,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1.v.nxog.top/m/json/yps.json"},
+
+ {"key": "csp_XYQHiker_盘搜索","name":"🦊盘Se","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/盘搜索.json"},
+ 
+ {"key":"csp_AliPS","name":"🦊搜盘","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+ 
+ {"key":"AliPS","name":"🦊盘搜","jar":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+ 
+ {"key": "csp_XYQHikerAL_云盘资源分享","name": "🦊云享","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/云盘资源分享.json"},    
   
  {"key": "csp_XYQHikerAL_我的小站","name":"🦊小站","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/我的小站.json"},
     
- {"key": "csp_XYQHikerAL_云盘资源","name":"🦊云资","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/云盘资源.json"},
-                   
- {"key":"PanSou","name":"🦊搜盘","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/fan.txt","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-           
- {"key":"PanSearch","name":"🦊盘索","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/fan.txt","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},                          
-
- {"key": "csp_XYQHiker_盘搜索","name":"🦊盘搜","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/盘搜索.json"},
- 
- {"key": "csp_XYQHiker_影搜","name":"🦊影搜","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/影搜.json"},
+ {"key": "csp_XYQHikerAL_云盘资源","name":"🦊云盘","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/云盘资源.json"},
  
  
   
  {"key":"csp_JianPian","name":"🧲磁力荐","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","timeout":30},
                     
  {"key":"荐片","name":"🧲磁荐片","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/jianpian.json$$$1", "timeout":30},
+ 
+ {"key":"YGP","name":"🧲磁片荐","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/fan.txt","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
  
  {"key":"贱贱","name":"🧲荐片磁","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/fan.txt","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js","timeout":30},
  
@@ -223,17 +184,27 @@
     
     
         
- {"key":"DiDuan","name":"🌀低端影视","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/fan.txt","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
+ {"key":"DiDuan","name":"🌀低端","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/fan.txt","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
   
- {"key":"南瓜","name":"🌀南瓜影视","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/fan.txt","type":3,"api":"csp_NanGua","timeout":30,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-  
- {"key":"drpy_js_cokemv","name":"🌀可乐影视","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/cokemv.js"},
-
- {key:'ikun资源',name:'🌀爱坤资源',type:1,api:'https://ikunzyapi.com/api.php/provide/vod',searchable:1,quickSearch:1,filterable:0,"timeout":30},
+ {"key": "csp_XYQHiker_臭蛋蛋影视","name":"🌀臭蛋","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/臭蛋蛋影视.json"},
  
- {key:'天翼资源',name:'🌀天翼聚合',type:1,api:'https://www.911ysw.top/tianyi.php/provide/vod/',searchable:1,quickSearch:1,filterable:0,"timeout":30},   
+ {"key":"达达龟","name":"🌀达达","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"http://1.v.nxog.top/m/js/nxog.js","ext":"http://1.v.nxog.top/m/js/104.js"},
+ 
+ {"key": "csp_Kuaikan","name": "🌀快看","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+ 
+  {"key": "csp_XYQHiker_Vidhub视频库","name":"🌀视库","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/Vidhub视频库.json"},
+ 
+ {"key":"Lib","name": "🌀立播","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/fan.txt","type": 3,"api": "csp_Libvio","timeout":15,"searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pw/"},
+  
+ {"key":"drpy_js_cokemv","name":"🌀可乐","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/cokemv.js"},
+
+ {"key":"csp_XYQHiker_奈飞中文","name":"🌀奈飞","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://itvbox.cc/sft/Hk/XYQHiker/奈飞中文.json","jar":"http://itvbox.cc/sft/Hk/Hk.jar"},
+ 
+ {"key": "csp_XYQHiker_影渣渣影视","name":"🌀影渣","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/影渣渣影视.json"},
     
- {"key":"csp_Ikanbot","name": "🌀爱看聚合","jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/XYQ.jar","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout":30}
+ { "key": "Ikanbot", "name": "🌀爱看", "type": 3, "jar":"https://ghproxy.net/https://raw.githubusercontent.com/beyonder588/wen/main/jar/pg.jar","api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
+ 
+ {key:'天翼资源',name:'🌀天翼',type:1,api:'https://www.911ysw.top/tianyi.php/provide/vod/',searchable:1,quickSearch:1,filterable:0,"timeout":30}  
                                                                        
   
   ]

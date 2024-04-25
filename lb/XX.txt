@@ -44,8 +44,7 @@ sites:[
 
 
 
-
-//{key:'资源',name:'❤测试',type:1,api:'https://leshizyapi.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
+{key:'资源',name:'❤测试',type:1,api:'https://aosikazy.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 
 
 {key:'老鸭资源',name:'❤*老鸭',type:1,api:'https://api.apilyzy.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
@@ -58,24 +57,27 @@ sites:[
 {key:'狼友会资源',name:'❤*狼友会',type:1,api:'https://api.lyhapi.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'155资源',name:'❤*妖舞',type:1,api:'https://155api.com/api.php/provide/vod/?ac=list',searchable:1,quickSearch:1,filterable:0},
 {key:'环亚资源',name:'❤*环亚',type:0,api:'http://wmcj8.com/inc/sapi.php',searchable:1,quickSearch:1,filterable:0},
-{key:'老色逼资源',name:'❤*老色',type:1,api:'https://apilsbzy.com/api.php/provide/vod/?ac=list',searchable:1,quickSearch:1,filterable:0},
+{key:'老色逼资源',name:'❤*老色',type:1,api:'https://apilsbzy1.com/api.php/provide/vod/?ac=list',searchable:1,quickSearch:1,filterable:0},
 {key:'滴滴资源',name:'❤*滴滴',type:1,api:'https://api.ddapi.cc/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'雪豹资源',name:'❤*小碧',type:1,api:'https://api.xbapi.cc/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'久久资源',name:'❤*久久',type:0,api:'https://99reapi.com/api.php/provide/vod/at/xml',searchable:1,quickSearch:1,filterable:0},
-{key:'易看资源',name:'❤*伦理',type:1,api:'https://api.yikanapi.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
+{key:'奥斯卡资源',name:'❤*奥斯卡',type:1,api:'https://aosikazy.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
+{key:'乐播资源',name:'❤*乐播',type:1,api:'http://lbapiby.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
+{key:'鸡坤资源',name:'❤*鸡坤',type:1,api:'https://jkunzyapi.com/api.php/provide/vod',searchable:1,quickSearch:1,filterable:0},
+{key:'搞起资源',name:'❤*搞起',type:1,api:'https://caiji.gqjiexi.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
+{key:'快V资源',name:'❤*伦理',type:1,api:'http://kuaiavzy.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 
 
 
 
-{key:'博民资源',name:'❤博民',type:0,api:'https://www.bominzy.com/api.php/provide/vod/at/xml',searchable:1,quickSearch:1,filterable:0},
+
+
 {key:'探探资源',name:'❤探探',type:1,api:'https://apittzy.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
-{key:'草莓资源',name:'❤草莓',type:1,api:'https://www.cmzyz.cc/Cmzyzapi.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'大地资源',name:'❤大地',type:0,api:'https://dadiapi.com/api.php',searchable:1,quickSearch:1,filterable:0},
 {key:'森林资源',name:'❤森林',type:1,api:'https://beiyong.slapibf.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'葡萄资源',name:'❤葡萄',type:1,api:'https://caiji.putaozyw.net/inc/apijson_vod.php',searchable:1,quickSearch:1,filterable:0},
 {key:'KK写真资源',name:'❤KK',type:1,api:'https://kkzy.me/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
-{key:'皇冠资源',name:'❤皇冠',type:1,api:'https://www.partnersky-horoskop.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
-//{key:'皇冠资源',name:'❤皇冠',type:1,api:'https://hghhh.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
+{key:'皇冠资源',name:'❤皇冠',type:1,api:'https://hghhh.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'黄瓜资源',name:'❤黄瓜',type:1,api:'https://www.avre01.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
 {key:'玉兔资源',name:'❤玉兔',type:1,api:'https://apiyutu.com/api.php/provide/vod/?ac=list',searchable:1,quickSearch:1,filterable:0},
 {key:'国联资源',name:'❤国联',type:1,api:'https://api.sexnguon.com/api.php/provide/vod/',searchable:1,quickSearch:1,filterable:0},
