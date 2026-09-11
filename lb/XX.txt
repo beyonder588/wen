@@ -3,10 +3,10 @@
 
 "wallpaper": "https://欧哥.v.nxog.top/m//t/",  
    
-"logo":"https://d.kstore.dev/download/4571/wen.gif",
+"logo":"https://raw.githubusercontent.com/beyonder588/wen/main/wen.gif",
 
 //欧哥：    https://双龙.v.nxog.top/m/     //
-"spider":"https://d.kstore.dev/download/4571/wen.jpg",
+"spider":"https://raw.githubusercontent.com/beyonder588/wen/main/wen.jpg",
 
 
 
