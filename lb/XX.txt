@@ -1,7 +1,7 @@
 
 {
 
-"wallpaper": "https://api.hanximeng.com/ranimg/",  
+"wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",  
    
 "logo":"https://raw.githubusercontent.com/beyonder588/wen/main/wen.gif",
 
