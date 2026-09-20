@@ -1,7 +1,7 @@
 
 {
 
-"wallpaper": "",  
+"wallpaper": "https://api.hanximeng.com/ranimg/",  
    
 "logo":"https://raw.githubusercontent.com/beyonder588/wen/main/wen.gif",
 
